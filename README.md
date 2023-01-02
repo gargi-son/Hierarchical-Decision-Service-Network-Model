@@ -12,6 +12,7 @@ Implement the required analytic models (see below) by filling out ams_extended.p
 To run the implemented functions in Problem 1 in the Problem Statement file, use solution/main_extended.py
 
   a. In terminal, make the downloaded folder your current folder
+  
   b. Run main_extended.py in Python w/ stdin being the model input stdout being the model output.
 
 Example:
